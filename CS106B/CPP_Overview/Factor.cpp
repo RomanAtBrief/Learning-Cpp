@@ -43,12 +43,11 @@ int main()
         if (integer != 1)
         {
             std::cout << "x ";
-        } 
+        }
         else
         {
             std::cout << std::endl;
         }
-        
     }
 
     return 0;
