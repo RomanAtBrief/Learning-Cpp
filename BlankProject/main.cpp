@@ -11,7 +11,7 @@ using namespace std;
 
 int main()
 {
-    string name = getLine("What is your name?");
+    string name = getLine("What is your ?");
     cout << "Hello, " << name << endl;
     return 0;
 }
