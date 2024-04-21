@@ -5,8 +5,11 @@
  */
 
 
-#include "gwindow.h"
-
 /* Prototypes */
+
+int main()
+{
+    return 0;
+}
 
 
